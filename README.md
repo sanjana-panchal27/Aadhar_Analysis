@@ -1,5 +1,7 @@
 # Aadhar_Analysis
 
+#UIDAI DATA HACKATHON 2026
+
 # Aadhaar Enrolment Data Analysis 📊
 
 A data analysis project built using **Python** to explore Aadhaar enrolment patterns across age groups, districts, and time. This project was developed as part of a **hackathon-style data analytics challenge** using publicly available government data.
